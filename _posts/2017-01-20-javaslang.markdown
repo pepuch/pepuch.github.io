@@ -1,8 +1,9 @@
 ---
+published: false
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2013-11-10 10:18:00
-categories: Thriller Comedy Horror
+title:  "Introduction to Javaslang!"
+date:   2017-01-20 10:18:00
+categories: java javaslang
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
