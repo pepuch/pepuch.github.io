@@ -8,9 +8,10 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: 'http://pepuch.github.io'
-#google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-91032975-1'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            'http://pepuch.github.io'
 author:         'Patryk Roszczyniała'
+
