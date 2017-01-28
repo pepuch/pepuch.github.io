@@ -13,5 +13,3 @@ gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            'http://pepuch.github.io'
-author:         'Patryk Roszczyniała'
-

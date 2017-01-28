@@ -7,7 +7,7 @@ categories: java javaslang
 disqus: true
 ---
 
-While working with java it may be that one of the called method throws exception. The problem is that you need to catch it which may be annoying because it's
+While working with java it may be that one of the called methods throw exception. The problem is that you need to catch it which may be annoying because it's
 not always needed. 
 
 The first time that I've used `Try.of()` was in a method responsible for searching person by name. What I wanted to return was `Optional<Person>`
@@ -55,4 +55,4 @@ Arrays.asList("1", "a", "2", "b").stream()
     .collect(Collectors.toList());
 {% endhighlight %}
 
-Other examples of using `Try` are availabe on my [github project](https://github.com/pepuch/javaslang-tests/tree/master/src/main/java/io/github/pepuch/exceptionhandling).
+Other examples of using `Try` are availabe in [javaslang-tests project](https://github.com/pepuch/javaslang-tests/tree/master/src/main/java/io/github/pepuch/exceptionhandling).
