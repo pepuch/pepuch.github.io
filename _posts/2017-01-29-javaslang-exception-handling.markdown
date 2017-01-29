@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Javaslang ... exception handling"
-<!--date:   2017-01-20 10:18:00-->
+date:   2017-01-28 10:40:00
 categories: java javaslang
 disqus: true
+displayed: false
 ---
 
 While working with java it's annoying while called method throws exception. If you chosen to handle it with `try ... catch` you may have a feeling that `try ... catch` notation is redundant. The solution may be Javaslang `Try` class.

@@ -34,7 +34,7 @@ cover: false
     </div>
 
     {% for post in paginator.posts %}
-
+    {% if post.displayed != false %}
     <article class="post">
         <header class="post-header">
             <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -55,6 +55,7 @@ cover: false
             </time> 
         </footer>
     </article>
+    {% endif %}
 
     <!-- Capser below -->
 <!--     <article class="{{post_class}}">
