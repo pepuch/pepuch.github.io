@@ -13,3 +13,4 @@ displayed: false
 - functions - CheckedFunction<> vs Function<> (checked one automatically inform that it catches exception internally)
 - what flatMap do?
 - pattern matching (local date match - Grzegorz Piwowarek confitura 2016; 32:30)
+- what about performance javaslang vs java collections api?
