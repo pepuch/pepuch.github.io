@@ -3,7 +3,7 @@ description: my personal notes about programming
 meta_description: "pepuch.github.io, my personal notes"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
