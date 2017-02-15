@@ -11,3 +11,4 @@ displayed: false
 #### Links
 - [Exploring Java 9 by Venkat Subramaniam](https://www.youtube.com/watch?v=8XmYT89fBKg)
 - [Java 9 features with examples](http://www.journaldev.com/13121/java-9-features-with-examples)
+- [Getting started wih Jaa 9 modules](https://labs.consol.de/development/2017/02/13/getting-started-with-java9-modules.html)
