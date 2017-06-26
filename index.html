@@ -34,7 +34,7 @@ cover: false
     </div>
 
     {% for post in paginator.posts %}
-    {% if post.displayed != false %}
+    {% if post.indexed != false %}
     <article class="post">
         <header class="post-header">
             <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
